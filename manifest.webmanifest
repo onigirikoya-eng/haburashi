@@ -1,0 +1,17 @@
+{
+  "name": "ハブラシ・コンサル",
+  "short_name": "ハブラシ",
+  "description": "電動歯ブラシ4社20機種の接客コンサルツール",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F2F6F6",
+  "theme_color": "#0B7A85",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
